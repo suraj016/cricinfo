@@ -1,0 +1,18 @@
+{
+  "name": "web_scrapping",
+  "version": "1.0.0",
+  "description": "collect the data from espn.cricinfo and show the list of all the players of the series and their runs ,ballsand avg into excel sheet",
+  "main": "ImportantNotes.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsdom": "^19.0.0",
+    "json-as-xlsx": "^2.4.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Kumar",
+  "license": "ISC"
+}
